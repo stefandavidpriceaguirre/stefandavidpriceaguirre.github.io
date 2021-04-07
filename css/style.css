@@ -2,8 +2,12 @@
 header, footer {
   background-color: #ffa500;
   text-align: left;
-  header { font-family: Work Sans; color: #fff; min-height: 100vh; display: flex; }
 }
+header {
+  font-family: Work Sans;
+   color: #fff;
+   min-height: 100vh;
+    display: flex; }
 
 main {
   display: grid;
