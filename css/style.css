@@ -67,7 +67,7 @@ img {
   text-decoration: none;
   margin: 1.69em auto;
   }
-.myButton:hover { background-color:#ade8f4; }
+.myButton:hover { background-color:rgba (0,0,0,.1); }
 .myButton:active { position:relative; top:1px; }
 .recipe {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
