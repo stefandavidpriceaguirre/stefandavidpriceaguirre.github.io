@@ -1,6 +1,6 @@
 /* Set the scroll behavior to smooth so that when you click the in the header, the screen scrolls down rather than jumps */ html { scroll-behavior: smooth; } /* Set the margin to 0 to make sure the page stretches all the way to the edge of the browser window. */ body { margin: 0; }
 header, footer {
-  background-color: #ade8f4;
+  background-color: #0077b6;
   text-align: left;
 }
 header {
